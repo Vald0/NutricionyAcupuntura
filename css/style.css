@@ -64,7 +64,8 @@ a {
     background-color: #403754;
 }
 
-.carousel__button img {
+.carousel__button h3 {
+    color: white;
     width: 12px;
 }
 
